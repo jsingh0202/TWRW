@@ -1,3 +1,0 @@
-title: $:/tiddlywiki/community/cards/ViewTemplateBodyTemplatePerson
-
-<$transclude $variable="community-card-person" title=<<currentTiddler>>/>

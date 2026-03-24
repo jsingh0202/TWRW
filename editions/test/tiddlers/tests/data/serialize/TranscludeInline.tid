@@ -1,5 +1,0 @@
-tags: $:/tags/wikitext-serialize-test-spec
-title: Serialize/TranscludeInline
-type: text/vnd.tiddlywiki
-
-{{MyTiddler}} {{MyTiddler||TemplateTitle}}

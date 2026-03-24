@@ -1,5 +1,0 @@
-title: $:/language/Snippets/ListByTag
-tags: $:/tags/TextEditor/Snippet
-caption: タグ指定によるTiddlerリスト
-
-<<list-links "[tag[task]sort[title]]">>
