@@ -35,7 +35,7 @@
     "node": ">=0.8.2"
   },
   "scripts": {
-    "start": "node ./tiddlywiki.js /TWData --listen port-8080 host-0.0.0.0",
+    "start": "node ./tiddlywiki.js /TWData --listen port=8080 host=0.0.0.0",
     "dev": "node ./tiddlywiki.js ./editions/tw5.com-server --listen",
     "test": "node ./tiddlywiki.js ./editions/test --verbose --version --build index",
     "lint": "eslint .",
